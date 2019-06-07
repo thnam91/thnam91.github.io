@@ -1,5 +1,5 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "나는 클라우드를 어떻게 이해하였나"
 categories:
   - Edge Case
 tags:
