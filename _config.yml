@@ -87,7 +87,7 @@ defaults:
 
 # Site Author
 author:
-  name: 남택호, Taekho Nam
+  name: 남택호
   picture: /images/profile.jpg
   email:
   twitter: mmistakes
