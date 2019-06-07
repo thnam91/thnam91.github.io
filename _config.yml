@@ -20,7 +20,7 @@ title: "My Awesome Site"
 description: "It really is the best."
 baseurl: ""
 url: "https://thnam91.github.io"
-logo: "/assets/images/profile.jpg"
+logo: "/images/profile.jpg"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
