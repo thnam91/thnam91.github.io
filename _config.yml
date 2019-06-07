@@ -86,21 +86,30 @@ defaults:
       share: true
 
 # Site Author
-author: "남태코1"
-  name: "남태코2"
-  picture: "/images/profile.jpg"
-  email: "career.thnam@gmail.com"
-  twitter:
+author:
+  name: Michael Rose
+  picture: /images/profile.jpg
+  email:
+  twitter: mmistakes
   links:
-    - title: "link_title"
-      url: "https://github.com/thnam91"
-      icon: "/images/profile.jpg"
+    - title: Twitter
+      url: https://twitter.com/mmistakes
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/mmistakes
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/mmistakes
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/username
+    url: https://twitter.com/mmistakes
     icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/mmistakes
+    icon: fab fa-instagram
   - title: GitHub
     url: https://github.com/mmistakes
     icon: fab fa-github-square
