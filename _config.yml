@@ -86,15 +86,15 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
-  picture:
-  email:
+author: "남태코1"
+  name: "남태코2"
+  picture: "/images/profile.jpg"
+  email: "career.thnam@gmail.com"
   twitter:
   links:
-    - title:
-      url:
-      icon:
+    - title: "link_title"
+      url: "https://github.com/thnam91"
+      icon: "/images/profile.jpg"
 
 # Footer Links
 footer_links:
